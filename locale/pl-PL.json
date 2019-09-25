@@ -1,13 +1,13 @@
 {
-    "Looks like they declined...": "Looks like they declined...",
-    "%s, do you accept this challenge?": "%s, do you accept this challenge?",
-    "Oh no, an error occurred. Try again later!": "Oh no, an error occurred. Try again later!",
-    "Sorry, time is up!": "Sorry, time is up!",
-    "Determines a user's IQ.": "Determines a user's IQ.",
-    "Me? My IQ score is off the charts!": "Me? My IQ score is off the charts!",
-    "Your IQ score is %s.": "Your IQ score is %s.",
-    "%s's IQ score is %s": "%s's IQ score is %s.",
-    "%s, which side do you pick?": "%s, which side do you pick?",
-    "Congrats, %s!": "Congrats, %s!",
-    "Oh... The cat won.": "Oh... The cat won."
+    "Looks like they declined...": "Wygląda na to, że odmówili...",
+    "%s, do you accept this challenge?": "%s, czy akceptujesz to wyzwanie?",
+    "Oh no, an error occurred. Try again later!": "O nie, wystąpił błąd. Spróbuj ponownie później!",
+    "Sorry, time is up!": "Przepraszam, czas minął!",
+    "Determines a user's IQ.": "Określa IQ użytkownika.",
+    "Me? My IQ score is off the charts!": "Ja? Mój wynik IQ jest poza wykresami!",
+    "Your IQ score is %s.": "Twój wynik IQ to %s.",
+    "%s's IQ score is %s": "Wynik IQ %s to %s.",
+    "%s, which side do you pick?": "%s, po której stronie wybierasz?",
+    "Congrats, %s!": "Gratulacje %s!",
+    "Oh... The cat won.": "Oh... Kot wygrał."
 }
