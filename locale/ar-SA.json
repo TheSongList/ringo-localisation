@@ -1,13 +1,13 @@
 {
-    "Looks like they declined...": "يبدو أنهم رفضوا...",
+    "Looks like they declined...": "شكلهم رفضوا...",
     "%s, do you accept this challenge?": "%s، هل تقبل هذا التحدي؟",
     "Oh no, an error occurred. Try again later!": "أوه لا , حدث خطأ. حاول مرة أخرى في وقت لاحق!",
-    "Sorry, time is up!": "أسف, انتهى الوقت!",
+    "Sorry, time is up!": "أسف, الوقت خلص!",
     "Determines a user's IQ.": "يحدد ذكاء الأشخاص.",
-    "Me? My IQ score is off the charts!": "أنا ؟ سجل معدل الذكاء الخاص بي هو خارج المخططات!",
-    "Your IQ score is %s.": "درجة الذكاء الخاصة بك هي %s.",
-    "%s's IQ score is %s": "%sدرجة الذكاء هي %s.",
+    "Me? My IQ score is off the charts!": "أنا؟ معدل ذكائي لا يتقارن مع أحد.",
+    "Your IQ score is %s.": "درجة ذكائك هي %s.",
+    "%s's IQ score is %s.": "%s's IQ score is %s.",
     "%s, which side do you pick?": "%s، أي جانب تختار؟",
     "Congrats, %s!": "مبروك %s!",
-    "Oh... The cat won.": "اوه... القطه فازت."
+    "Oh... The cat won.": "اوه... القطوه فازت."
 }
