@@ -1,0 +1,14 @@
+{
+    "Looks like they declined...": "Sembla que van declinar...",
+    "%s, do you accept this challenge?": "%s, acceptes aquest repte?",
+    "Oh no, an error occurred. Try again later!": "Oh no, s'ha produït un error. Torna-ho a provar més tard!",
+    "Sorry, time is up!": "Ho sentim, el temps és amunt!",
+    "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url",
+    "Determines a user's IQ.": "Determina el IQ d'un usuari.",
+    "Me? My IQ score is off the charts!": "Me? My IQ score is off the charts!",
+    "Your IQ score is %s.": "Your IQ score is %s.",
+    "%s's IQ score is %s.": "%s's IQ score is %s.",
+    "%s, which side do you pick?": "%s, which side do you pick?",
+    "Congrats, %s!": "Congrats, %s!",
+    "Oh... The cat won.": "Oh... The cat won."
+}

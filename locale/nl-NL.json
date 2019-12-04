@@ -1,0 +1,14 @@
+{
+    "Looks like they declined...": "Het lijkt erop dat ze hebben afgewezen...",
+    "%s, do you accept this challenge?": "%s, accepteert u deze uitdaging?",
+    "Oh no, an error occurred. Try again later!": "Oh nee, er is een fout opgetreden. Probeer het later opnieuw!",
+    "Sorry, time is up!": "Sorry, de tijd is voorbij!",
+    "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url",
+    "Determines a user's IQ.": "Bepaalt de IQ van een gebruiker.",
+    "Me? My IQ score is off the charts!": "Ik? Mijn IQ score is uit de grafieken!",
+    "Your IQ score is %s.": "Uw IQ score is %s.",
+    "%s's IQ score is %s.": "%s's IQ score is %s.",
+    "%s, which side do you pick?": "%s, welke kant kiest u?",
+    "Congrats, %s!": "Gefeliciteerd, %s!",
+    "Oh... The cat won.": "Oh... De kat won."
+}

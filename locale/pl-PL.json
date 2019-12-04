@@ -1,0 +1,14 @@
+{
+    "Looks like they declined...": "Wygląda na to, że odmówili...",
+    "%s, do you accept this challenge?": "%s, czy akceptujesz to wyzwanie?",
+    "Oh no, an error occurred. Try again later!": "O nie, wystąpił błąd. Spróbuj ponownie później!",
+    "Sorry, time is up!": "Przepraszam, czas minął!",
+    "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url",
+    "Determines a user's IQ.": "Określa IQ użytkownika.",
+    "Me? My IQ score is off the charts!": "Ja? Mój wynik IQ jest poza wykresami!",
+    "Your IQ score is %s.": "Twój wynik IQ to %s.",
+    "%s's IQ score is %s.": "Wynik IQ %s to %s.",
+    "%s, which side do you pick?": "%s, po której stronie wybierasz?",
+    "Congrats, %s!": "Gratulacje %s!",
+    "Oh... The cat won.": "Oh... Kot wygrał."
+}
