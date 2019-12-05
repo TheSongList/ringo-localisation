@@ -8,19 +8,19 @@
     "Cannot use this command on yourself.": "Cannot use this command on yourself.",
     "Patience! You can use this command again in %s.": "Patience! You can use this command again in %s.",
     "timePlural": [
-        "Seconds",
-        "Minutes",
+        "Sekonda",
+        "Minuta",
         "Hours",
-        "Days"
+        "Dite"
     ],
     "timeSingular": [
-        "Second",
+        "Sekond",
         "Minute",
-        "Hour",
-        "Day"
+        "Ore",
+        "Dit"
     ],
-    "Description:": "Description:",
-    "Usage:": "Usage:",
+    "Description:": "Pershkrimi:",
+    "Usage:": "Përdorimi:",
     "Aliases:": "Aliases:",
     "Determines a user's IQ.": "Determines a user's IQ.",
     "Me? My IQ score is off the charts!": "Me? My IQ score is off the charts!",
