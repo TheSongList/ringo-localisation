@@ -7,7 +7,7 @@
     "Cannot use this command on bots.": "No se puede utilizar este comando en bots.",
     "Description:": "Descripción:",
     "Usage:": "Uso:",
-    "Aliases:": "Aliases:",
+    "Aliases:": "Alias:",
     "Determines a user's IQ.": "Determina el IQ de un usuario.",
     "Me? My IQ score is off the charts!": "¿Yo? ¡Mi IQ está por las nubes!",
     "Your IQ score is %s.": "Su puntuación de IQ es %s.",
