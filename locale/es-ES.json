@@ -5,8 +5,8 @@
     "Sorry, time is up!": "Lo siento, ¡se acabó el tiempo!",
     "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "Por favor,\n1. Menciona un usuario\n2. Sube un adjunto\n3. Envía la url de la imagen",
     "Cannot use this command on bots.": "No se puede utilizar este comando en bots.",
-    "Cannot use this command on yourself.": "No se puede este comando en sí mismo.",
-    "Patience! You can use this command again in %s.": "¡Paciencia! Puedes usar este comando de nuevo en %s.",
+    "Cannot use this command on yourself.": "No se puede utilizar este comando en sí mismo.",
+    "Patience! You can use this command again in %s.": "¡Paciencia! Podras utilizar este comando en %s.",
     "timePlural": [
         "Segundos",
         "Minutos",
@@ -30,7 +30,7 @@
     "Congrats %s! You received %s.": "¡Enhorabuena %s! Has recibido %s.",
     "Well, well %s, it looks like %s has given you %s.": "Bueno, bueno %s, parece que %s te ha dado %s.",
     "Give one of your friends a reputaion point.": "Dale un punto de reputación a uno de tus amigos.",
-    "Oh look, %s, it looks like %s has given you a reputation point.": "Oh, mira, %s, parece que %s te ha dado un punto de reputación.",
+    "Oh look, %s, it looks like %s has given you a reputation point.": "O, mira, %s, parece que %s te ha dado un punto de reputación.",
     "%s, which side do you pick?": "%s, ¿cuál lado escoge?",
     "Congrats, %s!": "¡Felicidades, %s!",
     "Oh... The cat won.": "Oh... El gato ganó."
