@@ -4,6 +4,7 @@
     "Oh no, an error occurred. Try again later!": "Oh nee, er is een fout opgetreden. Probeer het later opnieuw!",
     "Sorry, time is up!": "Sorry, de tijd is voorbij!",
     "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url",
+    "Cannot use this command on bots.": "Cannot use this command on bots.",
     "Determines a user's IQ.": "Bepaalt de IQ van een gebruiker.",
     "Me? My IQ score is off the charts!": "Ik? Mijn IQ score is uit de grafieken!",
     "Your IQ score is %s.": "Uw IQ score is %s.",
