@@ -7,11 +7,17 @@
     "Cannot use this command on bots.": "Non è possibile utilizzare questo comando sui bot.",
     "Cannot use this command on yourself.": "Cannot use this command on yourself.",
     "Patience! You can use this command again in %s.": "Patience! You can use this command again in %s.",
-    "time": [
+    "timePlural": [
         "Seconds",
         "Minutes",
         "Hours",
         "Days"
+    ],
+    "timeSingular": [
+        "Second",
+        "Minute",
+        "Hour",
+        "Day"
     ],
     "Description:": "Descrizione:",
     "Usage:": "Utilizzo:",
