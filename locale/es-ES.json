@@ -7,6 +7,12 @@
     "Cannot use this command on bots.": "No se puede utilizar este comando en bots.",
     "Cannot use this command on yourself.": "No se puede este comando en sí mismo.",
     "Patience! You can use this command again in %s.": "¡Paciencia! Puedes usar este comando de nuevo en %s.",
+    "time": [
+        "Seconds",
+        "Minutes",
+        "Hours",
+        "Days"
+    ],
     "Description:": "Descripción:",
     "Usage:": "Uso:",
     "Aliases:": "Alias:",
