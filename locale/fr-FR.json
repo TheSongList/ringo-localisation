@@ -4,6 +4,7 @@
     "Oh no, an error occurred. Try again later!": "Oh non, une erreur s'est produite. Essayez à nouveau plus tard !",
     "Sorry, time is up!": "Désolé, le temps est écoulé!",
     "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url",
+    "Cannot use this command on bots.": "Cannot use this command on bots.",
     "Determines a user's IQ.": "Détermine le IQ d'un utilisateur.",
     "Me? My IQ score is off the charts!": "Moi ? Mon QI est hors normes!",
     "Your IQ score is %s.": "Votre IQ est de %s.",
