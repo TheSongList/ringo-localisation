@@ -4,6 +4,7 @@
     "Oh no, an error occurred. Try again later!": "О нет, произошла ошибка. Повторите попытку позже!",
     "Sorry, time is up!": "Извините, время истекло!",
     "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "Пожалуйста, либо:\n1. Упоминайте пользователя\n2. Загрузите вложение\n3. Отправить ссылку на изображение",
+    "Cannot use this command on bots.": "Cannot use this command on bots.",
     "Determines a user's IQ.": "Определяет IQ пользователя.",
     "Me? My IQ score is off the charts!": "Я? Мой счет IQ не по картам!",
     "Your IQ score is %s.": "Ваш IQ %s балла.",
