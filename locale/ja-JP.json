@@ -4,6 +4,7 @@
     "Oh no, an error occurred. Try again later!": "ああ、エラーが発生しました。 後で再試行してください。",
     "Sorry, time is up!": "ごめん、時間が上がってる!",
     "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url",
+    "Cannot use this command on bots.": "Cannot use this command on bots.",
     "Determines a user's IQ.": "ユーザーのIQを決定します。",
     "Me? My IQ score is off the charts!": "私？私のIQスコアはチャートから外されています!",
     "Your IQ score is %s.": "あなたのIQスコアは%sです.",
