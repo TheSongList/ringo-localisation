@@ -5,7 +5,7 @@
     "Sorry, time is up!": "Przepraszam, czas minął!",
     "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "Prosimy również:\n1. Wspomnienie użytkownika\n2. Prześlij załącznik\n3. Wyślij adres URL obrazu",
     "Cannot use this command on bots.": "Nie można użyć tej komendy na botach.",
-    "Cannot use this command on yourself.": "Cannot use this command on yourself.",
+    "Cannot use this command on yourself.": "Nie można użyć tej komendy na siebie.",
     "Patience! You can use this command again in %s.": "Patience! You can use this command again in %s.",
     "timePlural": [
         "Seconds",
