@@ -5,19 +5,19 @@
     "Sorry, time is up!": "ごめん、時間が上がってる!",
     "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "次のいずれかの操作を行ってください。\n1. ユーザーへの言及\n2. 添付ファイルをアップロードする\n3. 画像の URL を送信する",
     "Cannot use this command on bots.": "ボットではこのコマンドを使用できません。",
-    "Cannot use this command on yourself.": "Cannot use this command on yourself.",
-    "Patience! You can use this command again in %s.": "Patience! You can use this command again in %s.",
+    "Cannot use this command on yourself.": "このコマンドは自分では使用できません。",
+    "Patience! You can use this command again in %s.": "我慢しろ ! このコマンドは、 %s で再度使用できます。",
     "timePlural": [
-        "Seconds",
-        "Minutes",
-        "Hours",
-        "Days"
+        "秒",
+        "分",
+        "時間",
+        "日間"
     ],
     "timeSingular": [
-        "Second",
-        "Minute",
-        "Hour",
-        "Day"
+        "秒",
+        "分",
+        "時間",
+        "日間"
     ],
     "Description:": "説明:",
     "Usage:": "使用法:",
@@ -26,11 +26,11 @@
     "Me? My IQ score is off the charts!": "私？私のIQスコアはチャートから外されています!",
     "Your IQ score is %s.": "あなたのIQスコアは%sです.",
     "%s's IQ score is %s.": "%sのIQスコアは%sです.",
-    "Claim your daily money or if feeling generous, give it to someone else.": "Claim your daily money or if feeling generous, give it to someone else.",
-    "Congrats %s! You received %s.": "Congrats %s! You received %s.",
-    "Well, well %s, it looks like %s has given you %s.": "Well, well %s, it looks like %s has given you %s.",
-    "Give one of your friends a reputaion point.": "Give one of your friends a reputaion point.",
-    "Oh look, %s, it looks like %s has given you a reputation point.": "Oh look, %s, it looks like %s has given you a reputation point.",
+    "Claim your daily money or if feeling generous, give it to someone else.": "日々のお金を請求するか、気前がいいとか、他の誰かに与えてください。",
+    "Congrats %s! You received %s.": "コングラット %s! %s が受信されました。",
+    "Well, well %s, it looks like %s has given you %s.": "%sは %s に %s が与えられているようだ。",
+    "Give one of your friends a reputaion point.": "友達の一人に評判のポイントを与えなさい。",
+    "Oh look, %s, it looks like %s has given you a reputation point.": "%sのように、 %s のようにレピュテーション・ポイントが与えられています。",
     "%s, which side do you pick?": "%s、どちら側を選びますか。",
     "Congrats, %s!": "おめでとう、%s!",
     "Oh... The cat won.": "ああ... 猫が勝った。"
