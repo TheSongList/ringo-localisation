@@ -2,15 +2,15 @@
     "Looks like they declined...": "Looks like they declined...",
     "%s, do you accept this challenge?": "%s, do you accept this challenge?",
     "Oh no, an error occurred. Try again later!": "Oh no, an error occurred. Try again later!",
-    "Sorry, time is up!": "Sorry, time is up!",
+    "Sorry, time is up!": "Na vjen shume keq por koha ka mbaruar!",
     "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url",
     "Cannot use this command on bots.": "Cannot use this command on bots.",
     "Cannot use this command on yourself.": "Cannot use this command on yourself.",
-    "Patience! You can use this command again in %s.": "Patience! You can use this command again in %s.",
+    "Patience! You can use this command again in %s.": "Durime! Ju mund ta perdormin kete komand perseri ne %s.",
     "timePlural": [
         "Sekonda",
         "Minuta",
-        "Hours",
+        "Oret",
         "Dite"
     ],
     "timeSingular": [
@@ -24,14 +24,14 @@
     "Aliases:": "Aliases:",
     "Determines a user's IQ.": "Determines a user's IQ.",
     "Me? My IQ score is off the charts!": "Me? My IQ score is off the charts!",
-    "Your IQ score is %s.": "Your IQ score is %s.",
-    "%s's IQ score is %s.": "%s's IQ score is %s.",
+    "Your IQ score is %s.": "IQ jote është %s.",
+    "%s's IQ score is %s.": "%s's IQ jote është %s.",
     "Claim your daily money or if feeling generous, give it to someone else.": "Claim your daily money or if feeling generous, give it to someone else.",
     "Congrats %s! You received %s.": "Congrats %s! You received %s.",
     "Well, well %s, it looks like %s has given you %s.": "Well, well %s, it looks like %s has given you %s.",
-    "Give one of your friends a reputaion point.": "Give one of your friends a reputaion point.",
+    "Give one of your friends a reputation point.": "Give one of your friends a reputation point.",
     "Oh look, %s, it looks like %s has given you a reputation point.": "Oh look, %s, it looks like %s has given you a reputation point.",
     "%s, which side do you pick?": "%s, which side do you pick?",
-    "Congrats, %s!": "Congrats, %s!",
-    "Oh... The cat won.": "Oh... The cat won."
+    "Congrats, %s!": "Urime, %s!",
+    "Oh... The cat won.": "Oh... Macja fitoi."
 }
