@@ -8,16 +8,16 @@
     "Cannot use this command on yourself.": "Нельзя использовать эту команду на себя.",
     "Patience! You can use this command again in %s.": "Терпение! Вы можете использовать эту команду снова через %s.",
     "timePlural": [
-        "Seconds",
-        "Minutes",
-        "Hours",
-        "Days"
+        "Секунды",
+        "Минуты",
+        "Часов",
+        "Дней"
     ],
     "timeSingular": [
-        "Second",
-        "Minute",
-        "Hour",
-        "Day"
+        "Секунда",
+        "Минута",
+        "Час",
+        "День"
     ],
     "Description:": "Пояснение:",
     "Usage:": "Использование:",
