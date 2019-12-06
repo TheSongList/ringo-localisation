@@ -28,5 +28,8 @@
     "Oh look, %s, it looks like %s has given you a reputation point.": "%sのように、 %s のようにレピュテーション・ポイントが与えられています。",
     "%s, which side do you pick?": "%s、どちら側を選びますか。",
     "Congrats, %s!": "おめでとう、%s!",
-    "Oh... The cat won.": "ああ... 猫が勝った。"
+    "Oh... The cat won.": "ああ... 猫が勝った。",
+    "Change the language the bot sends messages to you in.": "Change the language the bot sends messages to you in.",
+    "The bots language has been set to %s, just for you how nice.": "The bots language has been set to %s, just for you how nice.",
+    "Err... The language code you provided doesn't seem valid. For a list use %s.": "Err... The language code you provided doesn't seem valid. For a list use %s."
 }
