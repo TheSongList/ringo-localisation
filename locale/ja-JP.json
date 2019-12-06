@@ -7,18 +7,13 @@
     "Cannot use this command on bots.": "ボットではこのコマンドを使用できません。",
     "Cannot use this command on yourself.": "このコマンドは自分では使用できません。",
     "Patience! You can use this command again in %s.": "我慢しろ ! このコマンドは、 %s で再度使用できます。",
-    "timePlural": [
-        "秒",
-        "分",
-        "時間",
-        "日間"
+    "time": [
+        "Second(s)",
+        "Minute(s)",
+        "Hour(s)",
+        "Day(s)"
     ],
-    "timeSingular": [
-        "秒",
-        "分",
-        "時間",
-        "日間"
-    ],
+    "Please wait %s more second(s) before reusing the %s command.": "Please wait %s more second(s) before reusing the %s command.",
     "Description:": "説明:",
     "Usage:": "使用法:",
     "Aliases:": "別名:",
