@@ -29,7 +29,7 @@
     "%s, which side do you pick?": "%s, ¿cuál lado escoge?",
     "Congrats, %s!": "¡Felicidades, %s!",
     "Oh... The cat won.": "Oh... El gato ganó.",
-    "Changes the language the bot sends messages to you in.": "Changes the language the bot sends messages to you in.",
+    "Changes the language the bot sends messages to you in.": "Cambia el idioma en el que el bot te envía mensajes.",
     "The bots language has been set to %s, just for you how nice.": "El idioma del bot se ha cambiado a %s, solo para ti lo bueno.",
     "Err... The language code you provided doesn't seem valid. For a list use %s.": "Err... El código de idioma que ha proporcionado no parece válido. Para una lista, utilice %s."
 }
