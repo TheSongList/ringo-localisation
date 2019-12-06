@@ -8,12 +8,12 @@
     "Cannot use this command on yourself.": "No se puede utilizar este comando en sí mismo.",
     "Patience! You can use this command again in %s.": "¡Paciencia! Podras utilizar este comando en %s.",
     "time": [
-        "Second(s)",
-        "Minute(s)",
-        "Hour(s)",
-        "Day(s)"
+        "Segundo(s)",
+        "Minuto(s)",
+        "Hora(s)",
+        "Día(s)"
     ],
-    "Please wait %s more second(s) before reusing the %s command.": "Please wait %s more second(s) before reusing the %s command.",
+    "Please wait %s more second(s) before reusing the %s command.": "Por favor, espera %s segundo(s) más antes de reutilizar el comando %s.",
     "Description:": "Descripción:",
     "Usage:": "Uso:",
     "Aliases:": "Alias:",
@@ -29,7 +29,7 @@
     "%s, which side do you pick?": "%s, ¿cuál lado escoge?",
     "Congrats, %s!": "¡Felicidades, %s!",
     "Oh... The cat won.": "Oh... El gato ganó.",
-    "Change the language the bot sends messages to you in.": "Change the language the bot sends messages to you in.",
-    "The bots language has been set to %s, just for you how nice.": "The bots language has been set to %s, just for you how nice.",
-    "Err... The language code you provided doesn't seem valid. For a list use %s.": "Err... The language code you provided doesn't seem valid. For a list use %s."
+    "Changes the language the bot sends messages to you in.": "Changes the language the bot sends messages to you in.",
+    "The bots language has been set to %s, just for you how nice.": "El idioma del bot se ha cambiado a %s, solo para ti lo bueno.",
+    "Err... The language code you provided doesn't seem valid. For a list use %s.": "Err... El código de idioma que ha proporcionado no parece válido. Para una lista, utilice %s."
 }
