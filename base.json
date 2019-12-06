@@ -7,8 +7,8 @@
     "Cannot use this command on bots.": "Cannot use this command on bots.",
     "Cannot use this command on yourself.": "Cannot use this command on yourself.",
     "Patience! You can use this command again in %s.": "Patience! You can use this command again in %s.",
-    "timePlural": ["Seconds", "Minutes", "Hours", "Days"],
-    "timeSingular": ["Second", "Minute", "Hour", "Day"],
+    "time": ["Second(s)", "Minute(s)", "Hour(s)", "Day(s)"],
+    "Please wait %s more second(s) before reusing the %s command.": "Please wait %s more second(s) before reusing the %s command.",
     
     "Description:": "Description:",
     "Usage:": "Usage:",
