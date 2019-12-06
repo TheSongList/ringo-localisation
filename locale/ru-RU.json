@@ -7,18 +7,13 @@
     "Cannot use this command on bots.": "Нельзя использовать эту команду на ботах.",
     "Cannot use this command on yourself.": "Нельзя использовать эту команду на себе.",
     "Patience! You can use this command again in %s.": "Терпение! Вы сможете использовать эту команду через %s.",
-    "timePlural": [
-        "Секунды",
-        "Минуты",
-        "Часов",
-        "Дней"
+    "time": [
+        "Second(s)",
+        "Minute(s)",
+        "Hour(s)",
+        "Day(s)"
     ],
-    "timeSingular": [
-        "Секунда",
-        "Минута",
-        "Час",
-        "День"
-    ],
+    "Please wait %s more second(s) before reusing the %s command.": "Please wait %s more second(s) before reusing the %s command.",
     "Description:": "Пояснение:",
     "Usage:": "Использование:",
     "Aliases:": "Алиасы:",
