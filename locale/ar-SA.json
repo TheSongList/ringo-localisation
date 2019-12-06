@@ -7,18 +7,13 @@
     "Cannot use this command on bots.": "مايمديك تستخدم الأمر على بوت.",
     "Cannot use this command on yourself.": "مايمديك تستخدم الأمر على نفسك.",
     "Patience! You can use this command again in %s.": "أصبر! يمديك تستخدم الأمر ثاني مره بعد %s.",
-    "timePlural": [
-        "ثاوني",
-        "دقائق",
-        "ساعات",
-        "أيام"
+    "time": [
+        "Second(s)",
+        "Minute(s)",
+        "Hour(s)",
+        "Day(s)"
     ],
-    "timeSingular": [
-        "ثانية",
-        "دقيقة",
-        "ساعة",
-        "يوم"
-    ],
+    "Please wait %s more second(s) before reusing the %s command.": "Please wait %s more second(s) before reusing the %s command.",
     "Description:": "الوصف:",
     "Usage:": "أستخدام:",
     "Aliases:": "الكنية:",
