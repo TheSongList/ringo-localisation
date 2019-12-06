@@ -28,5 +28,8 @@
     "Oh look, %s, it looks like %s has given you a reputation point.": "Oh guarda, %s, sembra che %s ti abbia dato un punto di reputazione.",
     "%s, which side do you pick?": "%s, da che parte scegli?",
     "Congrats, %s!": "Congratulazioni, %s!",
-    "Oh... The cat won.": "Oh... Il gatto ha vinto."
+    "Oh... The cat won.": "Oh... Il gatto ha vinto.",
+    "Change the language the bot sends messages to you in.": "Change the language the bot sends messages to you in.",
+    "The bots language has been set to %s, just for you how nice.": "The bots language has been set to %s, just for you how nice.",
+    "Err... The language code you provided doesn't seem valid. For a list use %s.": "Err... The language code you provided doesn't seem valid. For a list use %s."
 }
