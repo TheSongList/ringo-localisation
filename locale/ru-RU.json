@@ -8,12 +8,12 @@
     "Cannot use this command on yourself.": "Нельзя использовать эту команду на себе.",
     "Patience! You can use this command again in %s.": "Терпение! Вы сможете использовать эту команду через %s.",
     "time": [
-        "Second(s)",
-        "Minute(s)",
-        "Hour(s)",
-        "Day(s)"
+        "Секунд(ы)",
+        "Минут(ы)",
+        "Час(ы)",
+        "День(дни)"
     ],
-    "Please wait %s more second(s) before reusing the %s command.": "Please wait %s more second(s) before reusing the %s command.",
+    "Please wait %s more second(s) before reusing the %s command.": "Пожалуйста, подождите еще %s секунд(ы) перед повторным использованием команды %s.",
     "Description:": "Пояснение:",
     "Usage:": "Использование:",
     "Aliases:": "Алиасы:",
@@ -29,7 +29,7 @@
     "%s, which side do you pick?": "%s, какую сторону вы выбираете?",
     "Congrats, %s!": "Поздравляю, %s!",
     "Oh... The cat won.": "О... Кот выиграл.",
-    "Change the language the bot sends messages to you in.": "Change the language the bot sends messages to you in.",
-    "The bots language has been set to %s, just for you how nice.": "The bots language has been set to %s, just for you how nice.",
-    "Err... The language code you provided doesn't seem valid. For a list use %s.": "Err... The language code you provided doesn't seem valid. For a list use %s."
+    "Changes the language the bot sends messages to you in.": "Changes the language the bot sends messages to you in.",
+    "The bots language has been set to %s, just for you how nice.": "Язык ботов был установлен на %s, только для вас, как приятно.",
+    "Err... The language code you provided doesn't seem valid. For a list use %s.": "Эрр... Код языка, который вы предоставили, не является действительным. Для списка используйте %s."
 }
