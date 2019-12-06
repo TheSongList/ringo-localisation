@@ -7,18 +7,13 @@
     "Cannot use this command on bots.": "Nie można użyć tej komendy na botach.",
     "Cannot use this command on yourself.": "Nie można użyć tej komendy na siebie.",
     "Patience! You can use this command again in %s.": "Patience! You can use this command again in %s.",
-    "timePlural": [
-        "Seconds",
-        "Minutes",
-        "Hours",
-        "Days"
+    "time": [
+        "Second(s)",
+        "Minute(s)",
+        "Hour(s)",
+        "Day(s)"
     ],
-    "timeSingular": [
-        "Second",
-        "Minute",
-        "Hour",
-        "Day"
-    ],
+    "Please wait %s more second(s) before reusing the %s command.": "Please wait %s more second(s) before reusing the %s command.",
     "Description:": "Opis:",
     "Usage:": "Użycie:",
     "Aliases:": "Aliasy:",
