@@ -13,7 +13,7 @@
         "Hour(s)",
         "Day(s)"
     ],
-    "Please wait %s more second(s) before reusing the %s command.": "Please wait %s more second(s) before reusing the %s command.",
+    "Please wait %{seconds} more second(s) before reusing the %{name} command.": "Please wait %{seconds} more second(s) before reusing the %{name} command.",
     "Description:": "Pershkrimi:",
     "Usage:": "Përdorimi:",
     "Aliases:": "Aliases:",
