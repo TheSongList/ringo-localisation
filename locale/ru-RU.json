@@ -13,7 +13,7 @@
         "Час(ы)",
         "День(дни)"
     ],
-    "Please wait %s more second(s) before reusing the %s command.": "Пожалуйста, подождите еще %s секунд(ы) перед повторным использованием команды %s.",
+    "Please wait %{seconds} more second(s) before reusing the %{name} command.": "Please wait %{seconds} more second(s) before reusing the %{name} command.",
     "Description:": "Пояснение:",
     "Usage:": "Использование:",
     "Aliases:": "Алиасы:",
