@@ -8,12 +8,12 @@
     "Cannot use this command on yourself.": "مايمديك تستخدم الأمر على نفسك.",
     "Patience! You can use this command again in %s.": "أصبر! يمديك تستخدم الأمر ثاني مره بعد %s.",
     "time": [
-        "Second(s)",
-        "Minute(s)",
-        "Hour(s)",
-        "Day(s)"
+        "ثانية (ثواني)",
+        "دقيقة (دقائق)",
+        "ساعة (ساعات)",
+        "يوم (أيام)"
     ],
-    "Please wait %s more second(s) before reusing the %s command.": "Please wait %s more second(s) before reusing the %s command.",
+    "Please wait %s more second(s) before reusing the %s command.": "أرجوك انتظر %s أكثر من ثانية(ثواني) قبل إستخدامك للأمر %s",
     "Description:": "الوصف:",
     "Usage:": "أستخدم:",
     "Aliases:": "الكنية:",
@@ -29,7 +29,7 @@
     "%s, which side do you pick?": "%s، أي جانب تختار؟",
     "Congrats, %s!": "مبروك %s!",
     "Oh... The cat won.": "اوه... القطوه فازت.",
-    "Changes the language the bot sends messages to you in.": "Changes the language the bot sends messages to you in.",
-    "The bots language has been set to %s, just for you how nice.": "The bots language has been set to %s, just for you how nice.",
+    "Changes the language the bot sends messages to you in.": "قم بتغيير اللغة التي يقوم بها الروبوت بارسال الرسائل لك.",
+    "The bots language has been set to %s, just for you how nice.": "لغة البوت تم تغيرها إلى %s, فقط لك كم هاذا لطيف.",
     "Err... The language code you provided doesn't seem valid. For a list use %s.": "Err... The language code you provided doesn't seem valid. For a list use %s."
 }
