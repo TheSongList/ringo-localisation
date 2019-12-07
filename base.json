@@ -8,7 +8,7 @@
     "Cannot use this command on yourself.": "Cannot use this command on yourself.",
     "Patience! You can use this command again in %s.": "Patience! You can use this command again in %s.",
     "time": ["Second(s)", "Minute(s)", "Hour(s)", "Day(s)"],
-    "Please wait %s more second(s) before reusing the %s command.": "Please wait %s more second(s) before reusing the %s command.",
+    "Please wait %{seconds} more second(s) before reusing the %{name} command.": "Please wait %{seconds} more second(s) before reusing the %{name} command.",
     
     "Description:": "Description:",
     "Usage:": "Usage:",
