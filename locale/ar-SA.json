@@ -13,7 +13,7 @@
         "ساعة (ساعات)",
         "يوم (أيام)"
     ],
-    "Please wait %s more second(s) before reusing the %s command.": "أرجوك انتظر %s أكثر من ثانية(ثواني) قبل إستخدامك للأمر %s",
+    "Please wait %{seconds} more second(s) before reusing the %{name} command.": "Please wait %{seconds} more second(s) before reusing the %{name} command.",
     "Description:": "الوصف:",
     "Usage:": "أستخدم:",
     "Aliases:": "الكنية:",
