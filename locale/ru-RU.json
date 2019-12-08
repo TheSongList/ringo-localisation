@@ -30,6 +30,6 @@
     "Congrats, %s!": "Поздравляю, %s!",
     "Oh... The cat won.": "О... Кот выиграл.",
     "Changes the language the bot sends messages to you in.": "Изменяет язык, на котором бот отправляет вам сообщения.",
-    "The bots language has been set to %s, just for you how nice.": "Язык ботов был установлен на %s, только для вас, как приятно.",
+    "The bots language has been set to %s, just for you how nice.": "Язык бота был установлен на %s, только для вас, как приятно.",
     "Err... The language code you provided doesn't seem valid. For a list use %s.": "Эрр... Код языка, который вы предоставили, не является действительным. Для списка используйте %s."
 }
