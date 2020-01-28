@@ -29,6 +29,8 @@
     "%s, which side do you pick?": "%s, какую сторону вы выбираете?",
     "Congrats, %s!": "Поздравляю, %s!",
     "Oh... The cat won.": "О... Кот выиграл.",
+    "Please specify the number of messages to delete. Has to be between 1 and 100.": "Please specify the number of messages to delete. Has to be between 1 and 100.",
+    "There are no messages younger than 2 weeks.": "There are no messages younger than 2 weeks.",
     "Changes the language the bot sends messages to you in.": "Изменяет язык, на котором бот отправляет вам сообщения.",
     "The bots language has been set to %s, just for you how nice.": "Язык бота был установлен на %s, только для вас, как приятно.",
     "Err... The language code you provided doesn't seem valid. For a list use %s.": "Эрр... Код языка, который вы предоставили, не является действительным. Для списка используйте %s."
