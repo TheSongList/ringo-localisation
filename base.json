@@ -30,6 +30,9 @@
     "Congrats, %s!": "Congrats, %s!",
     "Oh... The cat won.": "Oh... The cat won.",
     
+    "Please specify the number of messages to delete. Has to be between 1 and 100.": "Please specify the number of messages to delete. Has to be between 1 and 100.",
+    "There are no messages younger than 2 weeks.": "There are no messages younger than 2 weeks.",
+    
     "Changes the language the bot sends messages to you in.": "Changes the language the bot sends messages to you in.",
     "The bots language has been set to %s, just for you how nice.": "The bots language has been set to %s, just for you how nice.",
     "Err... The language code you provided doesn't seem valid. For a list use %s.": "Err... The language code you provided doesn't seem valid. For a list use %s."
