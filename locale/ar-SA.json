@@ -34,7 +34,7 @@
     "Congrats, %s!": "مبروك %s!",
     "Oh... The cat won.": "اوه... القطوه فازت.",
     "Please specify the number of messages to delete. Has to be between 1 and 100.": "من فضلك قم بتحديد الرسائل المطلوبة حذفها. يجب أن تكون بين 1 و 100.",
-    "There are no messages younger than 2 weeks.": "There are no messages younger than 2 weeks.",
+    "There are no messages younger than 2 weeks.": "لا توجد رسائل أقل من أسبوعين.",
     "Changes the language the bot sends messages to you in.": "قم بتغيير اللغة التي يقوم بها الروبوت بارسال الرسائل لك.",
     "The bots language has been set to %s, just for you how nice.": "لغة البوت تم تغيرها إلى %s, فقط لك كم هاذا لطيف.",
     "Err... The language code you provided doesn't seem valid. For a list use %s.": "خطأ.. كود اللغة الذي قمت بتقديمه لا يبدو صحيحا. للحصول على كشف أستخدام %s."
