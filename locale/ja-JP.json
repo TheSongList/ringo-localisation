@@ -1,7 +1,7 @@
 {
     "Looks like they declined...": "彼らは辞退したように見える...",
     "%s, do you accept this challenge?": "%s、あなたはこの挑戦を受け入れますか?",
-    "Oh no, an error occurred. Try again later!": "ああ、エラーが発生しました。 後で再試行してください。",
+    "Oh no, an error occurred: %s. Try again later!": "Oh no, an error occurred: %s. Try again later!",
     "Sorry, time is up!": "ごめん、時間が上がってる!",
     "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "次のいずれかの操作を行ってください。\n1. ユーザーへの言及\n2. 添付ファイルをアップロードする\n3. 画像の URL を送信する",
     "Cannot use this command on bots.": "ボットではこのコマンドを使用できません。",
