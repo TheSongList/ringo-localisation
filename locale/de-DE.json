@@ -1,7 +1,7 @@
 {
     "Looks like they declined...": "Sieht aus, als ob sie abgelehnt wurden...",
     "%s, do you accept this challenge?": "%s, akzeptieren Sie diese Herausforderung?",
-    "Oh no, an error occurred. Try again later!": "Oh nein, es ist ein Fehler aufgetreten. Versuchen Sie es später noch einmal!",
+    "Oh no, an error occurred: %s. Try again later!": "Oh no, an error occurred: %s. Try again later!",
     "Sorry, time is up!": "Tut mir leid, die Zeit ist hoch!",
     "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url",
     "Cannot use this command on bots.": "Cannot use this command on bots.",
