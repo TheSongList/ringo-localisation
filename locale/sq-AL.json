@@ -1,7 +1,7 @@
 {
     "Looks like they declined...": "Looks like they declined...",
     "%s, do you accept this challenge?": "%s, do you accept this challenge?",
-    "Oh no, an error occurred. Try again later!": "Oh no, an error occurred. Try again later!",
+    "Oh no, an error occurred: %s. Try again later!": "Oh no, an error occurred: %s. Try again later!",
     "Sorry, time is up!": "Na vjen shume keq por koha ka mbaruar!",
     "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url",
     "Cannot use this command on bots.": "Cannot use this command on bots.",
