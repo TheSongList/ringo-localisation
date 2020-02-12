@@ -1,7 +1,7 @@
 {
     "Looks like they declined...": "Похоже, они отказались...",
     "%s, do you accept this challenge?": "%s, вы принимаете этот вызов?",
-    "Oh no, an error occurred. Try again later!": "О нет, произошла ошибка. Повторите попытку позже!",
+    "Oh no, an error occurred: %s. Try again later!": "Oh no, an error occurred: %s. Try again later!",
     "Sorry, time is up!": "Извините, время истекло!",
     "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "Пожалуйста, либо:\n1. Упоминайте пользователя\n2. Загрузите вложение\n3. Отправить ссылку на изображение",
     "Cannot use this command on bots.": "Нельзя использовать эту команду на ботах.",
