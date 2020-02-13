@@ -1,7 +1,7 @@
 {
     "Looks like they declined...": "شكلهم رفضوا...",
     "%s, do you accept this challenge?": "%s، هل تقبل هذا التحدي؟",
-    "Oh no, an error occurred: %s. Try again later!": "Oh no, an error occurred: %s. Try again later!",
+    "Oh no, an error occurred: %s. Try again later!": "أوه لا, حدث خطأ: %s. حاول مرة أخرى في وقت لاحق!",
     "Sorry, time is up!": "أسف, الوقت خلص!",
     "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "أرجوك إما:\n1. تمنشن شخص\n2. ترفع مرفق\n3. ترسل عنوان URL للصورة",
     "Cannot use this command on bots.": "مايمديك تستخدم الأمر على بوت.",
