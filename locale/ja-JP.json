@@ -37,5 +37,5 @@
     "There are no messages younger than 2 weeks.": "There are no messages younger than 2 weeks.",
     "Changes the language the bot sends messages to you in.": "Changes the language the bot sends messages to you in.",
     "The bots language has been set to %s, just for you how nice.": "The bots language has been set to %s, just for you how nice.",
-    "Err... The language code you provided doesn't seem valid. For a list use %s.": "Err... The language code you provided doesn't seem valid. For a list use %s."
+    "Err... The language code you provided doesn't seem valid. For a list use %s.": "アー。。。指定した言語コードは有効ではないようです。リストには %s を使用してください。"
 }
