@@ -1,7 +1,7 @@
 {
     "Looks like they declined...": "Parece que recusaram...",
     "%s, do you accept this challenge?": "%s, você aceita este desafio?",
-    "Oh no, an error occurred. Try again later!": "Ah não, ocorreu um erro. Tente novamente mais tarde!",
+    "Oh no, an error occurred: %s. Try again later!": "Oh no, an error occurred: %s. Try again later!",
     "Sorry, time is up!": "Desculpe, o tempo acabou!",
     "Please either:\n1. Mention a user\n2. Upload an attachment\n3. Send the image url": "Por favor, também:\n1. Mencione um usuário\n2. Envie um anexo\n3. Envie a url da imagem",
     "Cannot use this command on bots.": "Não é possível usar este comando nos bots.",
@@ -13,10 +13,14 @@
         "Hour(s)",
         "Day(s)"
     ],
-    "Please wait %s more second(s) before reusing the %s command.": "Please wait %s more second(s) before reusing the %s command.",
+    "Please wait %{seconds} more second(s) before reusing the %{name} command.": "Please wait %{seconds} more second(s) before reusing the %{name} command.",
     "Description:": "Descrição:",
     "Usage:": "Uso:",
     "Aliases:": "Apelido:",
+    "Determines a user's coolness.": "Determines a user's coolness.",
+    "Me? I think I'm the very best, like no one ever was.": "Me? I think I'm the very best, like no one ever was.",
+    "Ships two users together.": "Ships two users together.",
+    "Shipping someone with themselves would be pretty weird.": "Shipping someone with themselves would be pretty weird.",
     "Determines a user's IQ.": "Determina o IQ de um usuário.",
     "Me? My IQ score is off the charts!": "Eu? O meu QI está fora das tabelas!",
     "Your IQ score is %s.": "O teu IQ é %s.",
@@ -29,6 +33,8 @@
     "%s, which side do you pick?": "%s, qual lado você escolhe?",
     "Congrats, %s!": "Parabéns, %s!",
     "Oh... The cat won.": "Oh... O gato ganhou.",
+    "Please specify the number of messages to delete. Has to be between 1 and 100.": "Please specify the number of messages to delete. Has to be between 1 and 100.",
+    "There are no messages younger than 2 weeks.": "There are no messages younger than 2 weeks.",
     "Changes the language the bot sends messages to you in.": "Changes the language the bot sends messages to you in.",
     "The bots language has been set to %s, just for you how nice.": "The bots language has been set to %s, just for you how nice.",
     "Err... The language code you provided doesn't seem valid. For a list use %s.": "Err... The language code you provided doesn't seem valid. For a list use %s."
