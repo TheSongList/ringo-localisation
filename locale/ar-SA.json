@@ -21,7 +21,7 @@
     "Canceled!": "ألغيت!",
     "You require certain permissions to use this command.": "تحتاج تصريح معين لأستخدام هذا الأمر.",
     "The bot does not have the required permissions.": "لا يتوفر لدى البوت التصريح الازم.",
-    "Required arguments were not provided! Please use `help %s`.": "Required arguments were not provided! Please use `help %s`.",
+    "Required arguments were not provided! Please use `help %s`.": "لم يتم إتاحة المتغيرات المطلوبة! رجاءً أستخدم  `help %s`.",
     "Invalid command usage! To find out how to properly use this, please use `help %s`": "Invalid command usage! To find out how to properly use this, please use `help %s`",
     "Determines a user's coolness.": "تحدد روعة الشخص.",
     "Me? I think I'm the very best, like no one ever was.": "أنا ؟ أعتقد أنا الأفضل, كما لم يكن أحد من قبل.",
